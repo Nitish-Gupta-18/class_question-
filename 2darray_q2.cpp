@@ -10,7 +10,7 @@ int main() {
         
     };
 
-    // Calculate and print sum of each row
+
     for (int j= 0; j < rows; j++) {
         int sum = 0;
         for (int i = 0; i < cols; i++) {
