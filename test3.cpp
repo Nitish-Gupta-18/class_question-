@@ -15,6 +15,4 @@ int sum (int count , ...)
     return;
 
 }
-int main ()
 
-cout <<
